@@ -22,7 +22,7 @@ These are some very simple games I made or pasted from last year.
 
 ## 🌟 Trivia Quiz about Me
 
-Take this quiz about me, try to get all of them correct!
+take this quiz about me, try to get all of them correct!
 <form id="triviaForm">
   <div id="quiz-container"></div>
   <button type="button" onclick="checkAnswers()">Submit Answers</button>
